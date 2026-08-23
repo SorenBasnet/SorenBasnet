@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hi, I'm Soren Basnet. I am a Master's student studying Statistics and Data Science at UW-Madison. Expected Graduation is May 2027. 
 
-<!--
-**SorenBasnet/SorenBasnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My primary/current work is as follows :
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Statistical modeling & ML pipelines
+- Studying Statistics & Data Science
+- Tech Stack: R, Python, C++, SQL, Bash, PyTorch
+  
+Contact me : 
+- Email Address : basnetsoren01@gmail.com
+- Personal Website : https://www.sorenbasnet.com.np
+- LinkedIn : https://www.linkedin.com/in/sorenbasnet/
